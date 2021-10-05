@@ -1,0 +1,16 @@
+node_modules/
+.vscode/
+.DS_Store
+
+# android
+.gradle
+build/
+
+# Bundle artifact
+*.jsbundle
+
+# CocoaPods
+/ios/Pods/
+
+# yarn error
+yarn-error.log
