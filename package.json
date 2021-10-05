@@ -4,5 +4,9 @@
   "description": "React Native Javascript Template Tavvfiq",
   "repository": "https://github.com/tavvfiq/react-native-js-template-tavvfiq",
   "author": "tavvfiq <taufiqwidinugroho@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "files": [
+    "template",
+    "template.config.js"
+  ]
 }
